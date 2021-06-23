@@ -1,0 +1,18 @@
+{
+    "id": 2,
+    "ble": "B6C322D0BB",
+    "preferences":[
+        {
+            "id": 1, 
+            "choice": 0
+        },
+        {
+            "id": 2, 
+            "choice": 0
+        },
+        {
+            "id": 3, 
+            "choice": 1
+        }
+    ]
+}
